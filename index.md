@@ -25,16 +25,17 @@ I build deployable machine learning, database management systems, and workflows 
 
 ## Featured Projects
 
-### Machine Learning Stone Tool Classification
+**Machine Learning Stone Tool Classification**
 Machine learning application for the classification and prediction of stone tool production strategies. This project is deployed via streamlit.io
+\n
 https://freehandbipolarclassification.streamlit.app/
 
-### Archaeological Database System
+**Archaeological Database System**
 Relational database application construction for the curation, collection, and management of archaeological data. This project is deployed via executable file with streamlit as the front end of this application.
 
-### Field Data Collection Platform
+**Field Data Collection Platform**
 Offline-capable data collection and synchronization system for field recording.
 
 ---
 
-### Contact: gregoryalex007@gmail.com
+Contact: gregoryalex007@gmail.com
