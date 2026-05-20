@@ -20,7 +20,7 @@ defaults:
       layout: single
       author_profile: true
 
-  header_pages:
+header_pages:
   - index.md
   - projects.md
   - blog.md
