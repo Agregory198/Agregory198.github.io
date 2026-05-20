@@ -3,6 +3,12 @@ title: Resume
 layout: single
 permalink: /resume/
 ---
+Contact: 
+Alex Gregory
+gregoryalex007@gmail.com
+
+# Education
+**2021-Present** PhD|NYU
 
 
 
