@@ -1,1 +1,5 @@
-
+title: Alex Gregory Portfolio
+description: Quantitative modeling, ML, and computational systems
+theme: minima
+plugins:
+  - jekyll-feed
