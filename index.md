@@ -1,8 +1,13 @@
 ---
-layout: default
-title: Home
+layout: home
+author_profile: true
+title: "Alex Gregory"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/banner.jpg
+  caption: "Quantitative Modeling • Machine Learning • Data Systems"
 ---
-
 # Welcome!
 I am Alex Gregory, a quantitative analyst and PhD candidate. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
 
