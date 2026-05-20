@@ -48,6 +48,16 @@ gregoryalex007@gmail.com
 - Public Speaking
 - Writing
 
+# Journal Publications
+## Published
+
+## In-Progress
+
+
+# Awards and Grants
+
+
+
 ## Download CV
 
 [Download PDF CV](/assets/files/alex_gregory_cv.pdf)
