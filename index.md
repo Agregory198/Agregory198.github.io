@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Alex Gregory
-I am a quantitative analyst and PhD candidate in archaeology. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
+# Welcome!
+I am Alex Gregory, a quantitative analyst and PhD candidate. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
 
 ## I’m currently working on
 - Database design, management, and deployment for large scale data collection
