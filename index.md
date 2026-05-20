@@ -8,17 +8,33 @@ header:
   overlay_image: /assets/images/banner.jpg
   caption: "Quantitative Modeling • Machine Learning • Data Systems"
 ---
+
 # Welcome!
-I am Alex Gregory, a quantitative analyst and PhD candidate. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
+I am a quantitative analyst and PhD candidate. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
+
+## Computational Systems and Quantitative Research
+I build deployable machine learning, database management systems, and workflows for the collection, processing, and analysis of complex data.
 
 ## I’m currently working on
 - Database design, management, and deployment for large scale data collection
-- Cloud-based and local application development and deployment for machine learning problems, data collection, and data processing
+- Cloud-based and local development and deployment for machine learning problems, data collection, and data processing
 - Bayesian models that link prehistoric human settlement, population size, and technological change
 - Regression analysis of human technological change and dietary focus
 
+---
 
+## Featured Projects
 
+### Machine Learning Stone Tool Classification
+Machine learning application for the classification and prediction of stone tool production strategies. This project is deployed via streamlit.io
+https://freehandbipolarclassification.streamlit.app/
 
+### Archaeological Database System
+Relational database application construction for the curation, collection, and management of archaeological data. This project is deployed via executable file with streamlit as the front end of this application.
+
+### Field Data Collection Platform
+Offline-capable data collection and synchronization system for field recording.
+
+---
 
 ### Contact: gregoryalex007@gmail.com
