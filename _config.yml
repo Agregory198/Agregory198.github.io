@@ -8,6 +8,9 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+include:
+  - _pages
+
 defaults:
   - scope:
       path: ""
