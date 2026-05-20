@@ -27,3 +27,7 @@ This project provides an application for archaeologists to input their data and 
 ## Goals
 
 Improve reproducibility and analytical efficiency in stone flake prediction.
+
+## Results
+
+Best accuracy with numeric and nominal variables is 95%
