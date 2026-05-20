@@ -13,7 +13,7 @@ layout: single
 - **Visualization**: ggplot2, plotly
 - **Soft skills**: Causal reasoning, Science communication
 
-### What I value
+## Values
 - Data ethics and transparency
 - Scientific communication
 - Diversity of thought in scientific callaborations
