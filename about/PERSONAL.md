@@ -1,5 +1,5 @@
 layout: page
 title: "About Alex"
-permalink: /about
+permalink: /about/
 
 # About M
