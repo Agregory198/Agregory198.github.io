@@ -1,6 +1,16 @@
 title: Alex Gregory Portfolio
 description: Quantitative modeling, ML, and data systems
 
+author:
+  name: Alex Gregory
+  avatar: "/assets/images/profile.jpg"
+  bio: "Quantitative modeling, machine learning, and computational systems."
+  location: "New York"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/Agregory198"
+
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
