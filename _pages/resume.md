@@ -17,8 +17,10 @@ gregoryalex007@gmail.com
 **2014-2018** B.A.|Mathematics; Archaeological Studies|State University of New York at Potsdam
 
 ## Certificates
+
 **2026** IBM Data Science
-**2019-2021** Masters of Geographic Information Sciences
+
+**2019-2021**Masters of Geographic Information Sciences
 
 # Technical Skills
 
