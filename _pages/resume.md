@@ -42,8 +42,11 @@ gregoryalex007@gmail.com
 - Git
 - Microsoft Excel/Access
 
-# Soft Skills
-
+## Soft Skills
+- Science Communication
+- Causal Reasoning
+- Public Speaking
+- Writing
 
 ## Download CV
 
