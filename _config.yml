@@ -21,7 +21,7 @@ defaults:
       author_profile: true
 
 header_pages:
-  - index.md
-  - projects.md
-  - blog.md
-  - about.md
+  - _pages/index.md
+  - _pages/projects.md
+  - _pages/blog.md
+  - _pages/about.md
