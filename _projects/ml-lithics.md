@@ -6,26 +6,24 @@ header:
   teaser: /assets/images/ml_project.png
 ---
 
-# ML Lithics Classification System
-
 ## Overview
 
-This project explores machine learning approaches for lithic classification and predictive modeling.
+This project provides an application for archaeologists to input their data and recieve predictions on whether the stone flakes were produced via freehand or bipolar methods.
 
 ## Methods
 
 - Python
 - scikit-learn
 - Streamlit
-- SQLite
+- Logistic regression, decision trees, gradient boosting
 
 ## Features
 
-- automated preprocessing
-- feature engineering
-- classification pipeline
-- interactive interface
+- Automated preprocessing
+- Feature engineering
+- Classification pipeline
+- Interactive interface
 
 ## Goals
 
-Improve reproducibility and analytical efficiency in lithic analysis.
+Improve reproducibility and analytical efficiency in stone flake prediction.
