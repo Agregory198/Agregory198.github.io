@@ -12,9 +12,9 @@ author:
       url: "https://github.com/Agregory198"
 
     - label: "Linkedin"
-    - icon: "fab fa-linkedin"
-    - link: "https://linkedin.com"
-    - url: "https://www.linkedin.com/in/alex-gregory-33316590"
+      icon: "fab fa-linkedin"
+      link: "https://linkedin.com"
+      url: "https://www.linkedin.com/in/alex-gregory-33316590"
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
