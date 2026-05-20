@@ -26,14 +26,17 @@ I build deployable machine learning, database management systems, and workflows 
 ## Featured Projects
 
 **Machine Learning Stone Tool Classification**
+<br>
 Machine learning application for the classification and prediction of stone tool production strategies. This project is deployed via streamlit.io
 
 https://freehandbipolarclassification.streamlit.app/
 
 **Archaeological Database System**
+<br>
 Relational database application construction for the curation, collection, and management of archaeological data. This project is deployed via executable file with streamlit as the front end of this application.
 
 **Field Data Collection Platform**
+<br>
 Offline-capable data collection and synchronization system for field recording.
 
 ---
