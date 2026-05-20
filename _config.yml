@@ -1,5 +1,27 @@
 title: Alex Gregory Portfolio
-description: Quantitative modeling, ML, and computational systems
-theme: minima
+description: Quantitative modeling, ML, and data systems
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
+  header_pages:
+  - index.md
+  - projects.md
+  - blog.md
+  - about.md
