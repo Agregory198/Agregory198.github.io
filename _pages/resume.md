@@ -20,7 +20,7 @@ gregoryalex007@gmail.com
 
 **2026** IBM|Data Science
 
-**2019-2021**Oregon State University|Geographic Information Sciences
+**2019-2021** Oregon State University|Geographic Information Sciences
 
 # Technical Skills
 
