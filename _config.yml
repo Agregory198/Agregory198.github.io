@@ -19,6 +19,11 @@ author:
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
 plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
