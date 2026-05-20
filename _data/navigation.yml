@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: About
-  link: /about/
-- name: Contact
-  link: /contact/
+  link: _pages/about/
+- name: Projects
+  link: _pages/projects/
