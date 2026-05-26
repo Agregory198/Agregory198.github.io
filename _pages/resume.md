@@ -5,8 +5,7 @@ classes: wide
 permalink: /resume/
 ---
 Contact: 
-Alex Gregory
-gregoryalex007@gmail.com
+Alex Gregory|gregoryalex007@gmail.com
 
 # Education
 
