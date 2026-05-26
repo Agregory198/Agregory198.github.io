@@ -19,7 +19,7 @@ I build deployable machine learning, database management systems, and workflows 
 - Database design, management, and deployment for large scale data collection
 - Cloud-based and local development and deployment pf applications for machine learning, data collection, and data processing
 - Bayesian models that link prehistoric human settlement, population size, and technological change
-- Regression analysis of human technological change and dietary focus
+- Regression analysis of human technological change and dietary intensification
 
 ---
 
