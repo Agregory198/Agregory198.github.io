@@ -1,5 +1,5 @@
 ---
-title: "ML Lithics Classification System"
+title: "ML Lithics Classification"
 layout: single
 excerpt: "Machine learning workflow for lithic classification and predictive analysis."
 header:
