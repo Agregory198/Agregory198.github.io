@@ -1,6 +1,7 @@
 ---
 title: "ML Lithics Classification"
 layout: single
+classes: wide
 excerpt: "Machine learning workflow for lithic classification and predictive analysis."
 header:
   teaser: /assets/images/ml_project.png
