@@ -26,5 +26,3 @@ More campuses should consider the latter approach. By opening positions for trai
 AI is here and it isn’t going anywhere. We know it benefits students’ learning, and we know there are measures we can take to regulate the knowledge of AI, how and when students should use it. Therefore, instead of remaining ignorant about the software, adopt it, use it, advance your life, and your world.
 
 AI can be our ally; we don’t want to see a world where we make it our enemy.
-
-Alex Gregory is a PhD candidate at the department of Anthropology at New York University and a member of the African Paleosciences Laboratory.
