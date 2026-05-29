@@ -23,6 +23,10 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+    
+  blog:
+    output: true
+    permalink: /blog/:path/
 
 plugins:
   - jekyll-include-cache
