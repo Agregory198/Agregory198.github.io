@@ -1,11 +1,12 @@
 ---
-title: "Designing a CouchDB Workflow for Archaeological Field Data"
+title: "Designing Applications in an AI-Driven World"
 date: 2026-05-29
-categories: archaeology database workflow
+categories: [Applicaiton, AI, Ethics]
+tags: [Data-engineering, AI, Development]
 ---
 
 # Introduction
 
-This post explores the schema and architectural considerations behind developing a CouchDB-backed archaeological recording system.
+
 
 ...
