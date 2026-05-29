@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Designing a CouchDB Workflow for Archaeological Field Data"
 date: 2026-05-29
 categories: archaeology database workflow
