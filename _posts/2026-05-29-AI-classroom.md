@@ -1,6 +1,10 @@
+---
+title: "AI in the Classroom: Learning Avoidance or Advantage?"
+date: 2026-05-29
+categories: [AI, Ethics]
+tags: [AI]
+---
 
-
-AI in the Classroom: Learning Avoidance or Advantage?
 The Artificial Intelligence arms race is here, and education is at its center. The technology has sent tremors across the Earth as educators and students struggle to understand its role in their workplace and daily life. For many, AI is a one-stop shop to quench an unyielding thirst for knowledge, or in some cases, an unyielding laziness.
 
 Currently, you can find AI anywhere with a connection to the internet, which at this time includes outer space; it's free, it’s powerful, it’s all-knowing. After all, humans designed AI software to learn from human knowledge, so of course it thinks it knows everything.
