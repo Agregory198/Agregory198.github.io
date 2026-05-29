@@ -15,5 +15,5 @@ Colleague: "We can worry about those later, I just wrote a few sentences and had
 
 Just five years ago, you would not have heard of someone developing an application only to, after its completed, decide who should use the app and for what purpose.
 
-
+[To be continued]
 ...
