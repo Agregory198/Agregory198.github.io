@@ -1,6 +1,7 @@
 ---
 title: "Field Recording Application"
 layout: single
+classes: wide
 excerpt: "Data collection, storage, and curation"
 header:
   teaser: /assets/images/recorder_app.png
