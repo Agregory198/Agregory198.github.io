@@ -26,21 +26,26 @@ There are mixed results in favor and against my initial hypothesis. Below, I hig
 ### Toolkit Composition
 Though there are visible trends in toolkit and material composition (**FIgure 1**), a proportional model conducted with a catgorical and dirichlet family show no significant differences. This contradicts previous observations that predicted hunter-gatherer toolkits shift in response to changing mobility and dietary patterns.
 ![Figure1](/assets/images/coastal_intensification/Figure5.png)
-<p align="center"><em>Figure 1: Your figure label here.</em></p>
+<p align="center"><em>Figure 1. Proportional comparison between the three main tool categories, core, flake, and retouched tools conditioned by different stone-tool rawmaterial.</em></p>
 
 
 ### Flaked tools
 There are clear trends in how hunter-gatherers managed their flaked tool utility and reduction intensity (**Figure 2**) as they increased coastal resource use. **Figure 2** and **Figure 3** show the slope estimate between flake utility and reduction intensity. There are clear shifts towards lower rates as hunter-gatherers focused on coastal resources. This result implies that hunter-gatherers focused on much slower shifts between flake utility and reduction intensity when focused on coastal resource use.
 ![Figure2](/assets/images/coastal_intensification/Figure12a.png)
+<p align="center"><em>Figure 2. The rate of change between utility and reduction intensity colored by the coastal-to-terrestrial resource ratio.</em></p>
+
 ![Figure3](/assets/images/coastal_intensification/Figure12b.png)
+<p align="center"><em>Figure 3. posterior estimate for median slope values at the reduction value prior to the curves’ inflection point with 95% Credible Intervals (CI) in light-blue. There is a significantly greater rate of change between utility and reduction intensity for periods with lower coastal resource use.</em></p>
 
 ### Core tools
 There are no visible trends in how hunter-gatherers managed their core tool utility to reduction intensity (**Figure 4**). This implies that core maintenance is not always sensitive to shifts in hunter-gatherer diets and mobility strategies.
 ![Figure4](/assets/images/coastal_intensification/Figure13a.png)
+<p align="center"><em>Figure 4. The rate of change between utility and reduction intensity colored by the coastal-to-terrestrial resource ratio.</em></p>
 
 ### Scrapers
 There are no visible trends in how hunter-gatherers managed scraper utility and retouch intensity as they increased coastal resource use(**Figure 5**). This suggests that we should expects shifts in every aspect of hunter-gatherer toolkits. Instead, a focus on coastal resources led to a shift in selective technologies.
 ![Figure5](/assets/images/coastal_intensification/Figure14a.png)
+<p align="center"><em>Figure 5. Posterior estimate for median slope values between 0.6 and 0.8 retouch intensity values (scaled). These data were modeled via a second order polynomial.</em></p>
 
 ## Conclusion
 There are some stone tool trends that match my hypothesis, but the vast majority contradict my expectations. This conclusion implies that archaeologists need to think carefully about which stone tool patterns they expect to find as hunter-gatherers aggregate along coastal resources. There does not seem to be a one-fits-all pattern of hunter-gatherer technological adaptations. Instead, there are selective shifts in technology that are driven by a combination of social strategies and task-specific needs, exemplifying a broad spectrum of hunter-gatherer behaviors.
