@@ -2,6 +2,8 @@
 layout: home
 author_profile: true
 title: "Alex Gregory"
+author:
+  email: gregoryalex007@gmail.com
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
@@ -13,7 +15,7 @@ header:
 I am a quantitative analyst and PhD candidate. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
 
 ## Computational Systems and Quantitative Research
-I build deployable machine learning, database management systems, and workflows for the collection, processing, and analysis of complex data.
+I build deployable machine learning, database management systems, and workflows for the collection, processing, and analysis of complex data. My passion lies in exploring and uncovering patterns in data via Bayesian techniques.
 
 ## I’m currently working on
 - Database design, management, and deployment for large scale data collection
