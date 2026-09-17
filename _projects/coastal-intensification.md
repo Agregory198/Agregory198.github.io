@@ -27,7 +27,7 @@ There are mixed results in favor and against my initial hypothesis. Below, I hig
 
 ### Toolkit Composition
 Though there are visible trends in toolkit and material composition (**FIgure 1**), a proportional model conducted with a catgorical and dirichlet family show no significant differences. This contradicts previous observations that predicted hunter-gatherer toolkits shift in response to changing mobility and dietary patterns.
-![Figure1](results/figures/Figure5.png)
+![Figure1](/assets/images/coastal_intensifcation/Figure5.png)
 
 
 ### Flaked tools
