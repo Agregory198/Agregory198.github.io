@@ -1,0 +1,32 @@
+---
+# Front matter blocks must remain empty at the top of the file
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'air' }}"; // loads your 'air' skin
+@import "minimal-mistakes"; // loads core styles
+
+/* --- Custom Project Text Layout Fixes --- */
+
+/* 1. Force project archive grid items to widen rather than squeeze */
+.archive__item {
+  min-width: 280px; /* Prevents cards from getting excessively narrow */
+}
+
+/* 2. Fix paragraph container squeezing on single project display pages */
+.page__content {
+  p, li {
+    word-break: break-word;   /* Safely wraps words at natural breaks */
+    overflow-wrap: break-word; 
+    letter-spacing: 0.01em;    /* Relieves cramped typography */
+  }
+}
+
+/* 3. OPTIONAL: If your project titles are wrapping into ugly short lines, 
+   uncomment the lines below to keep them flat on a single line */
+/*
+.archive__item-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+*/
