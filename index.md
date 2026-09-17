@@ -2,8 +2,6 @@
 layout: home
 author_profile: true
 title: "Alex Gregory"
-author:
-  email: gregoryalex007@gmail.com
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
