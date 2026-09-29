@@ -44,7 +44,7 @@ The Southern African Radiocarbon Database (SARD) represents the largest up-to-da
   <align="center"><em>Figure 1: Map of the sample of sites containing radiocarbon data associated with the different technological toolkits.</em>
 </align>p>
 <p align="center">
-  <img src="/assets/images/Survival_Curve_C14/Table1.png" alt="Table 1" width="800">
+  <img src="/assets/images/Survival_Curve_C14/Table1.png" alt="Table 1" width="500">
 </p>
 
 
