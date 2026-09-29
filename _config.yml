@@ -1,6 +1,8 @@
 title: Alex Gregory Portfolio
 description: Quantitative modeling, ML, and data systems
 
+markdown: kramdown
+
 author:
   name: Alex Gregory
   avatar: "/assets/images/profile.jpg"
