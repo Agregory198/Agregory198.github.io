@@ -75,7 +75,7 @@ The posterior distribution for the second model confirms the hypothesis that tec
 <br>
 In regards to my initial hypotheses, there is strong evidence that the Robberg technological duration is similar across all southern African biomes except between the savanna and coastal biomes (P(Savanna duration > Coastal duration) = 0.93) (**Table 4**). In contrast, there are several significant differences for Oakhurst technological duration between southern African regions except between the desert and interior (P(Desert > Interior) = 0.82), Coastal and Interior (P(Coastal > Interior) = 0.2), and savanna and coastal (P(Savanna > Coastal) = 0.53). The Wilton technology is similar across all regions except for between the savanna and coastal biomes (P(Savanna > Coastal) = 0.91). Lastly, the Final Later Stone Age technology is similar across all regions except between the savanna and grassland (P(Savanna > Grassland) = 0.90).
 <p align="center">
-    <img src="/assets/images/Survival_Curve_C14/Table4.png" alt="Table 4" width="800">
+    <img src="/assets/images/Survival_Curve_C14/Table4.png" alt="Table 4" width="410">
 </p>
 
 # Discussion
