@@ -13,11 +13,12 @@ header:
 I am a quantitative analyst and PhD candidate. My area of expertise focuses on Bayesian inference, predictive modeling, and casual reasoning.
 
 ## Computational Systems and Quantitative Research
-I build deployable machine learning, database management systems, and workflows for the collection, processing, and analysis of complex data. My passion lies in exploring and uncovering patterns in data via Bayesian techniques.
+I build deployable machine learning, database management systems, and workflows for the collection, processing, and analysis of complex data. In addition, my research focuses on applying emerging statistical techniques and Bayesian frameworks on complex, longitudinal databases.
 
 ## I’m currently working on
 - Database design, management, and deployment for large scale data collection
 - Cloud-based and local development and deployment pf applications for machine learning, data collection, and data processing
+- Survival analysis of hunter-gatherer technology in southern Africa
 - Bayesian models that link prehistoric human settlement, population size, and technological change
 - Regression analysis of human technological change and dietary intensification
 
