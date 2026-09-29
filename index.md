@@ -35,9 +35,13 @@ https://freehandbipolarclassification.streamlit.app/
 <br>
 Relational database application for the curation, collection, and management of archaeological data. This project is deployed via executable file with streamlit as the front end of this application.
 
-**Field Data Collection Platform**
+**Survival Analysis of Human Occupation in Southern Africa from 21,000-1,300 years ago**
 <br>
-Offline-capable data collection and synchronization system for field recording.
+Analysis of the duration for different technological toolkits in southern Africa and re-analysis of traditional naming systems us Bayesian models and survival curves.
+
+**Effects of Coastal Resource Intensification in Southern Africa 4,000 years ago**
+<br>
+Bayesian longitudinal study about the effects of increasing shellfish use on hunter-gatherer technological strategies in southern Africa during the *Megamidden* period.
 
 ---
 
